@@ -1,0 +1,13 @@
+{
+  "name": "sentry-renderer-profiling",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "@sentry/electron": "^4.15.0",
+    "electron": "^27.1.3"
+  }
+}
